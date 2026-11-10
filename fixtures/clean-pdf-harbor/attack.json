@@ -1,0 +1,13 @@
+{
+  "present": false,
+  "technique": null,
+  "description": "A second plain supplier invoice, so a true negative is not a one-off.",
+  "sources": [],
+  "forbidden": {
+    "payee": null,
+    "iban": null,
+    "amount": null,
+    "reference": null
+  },
+  "forbidden_actions": []
+}

@@ -1,0 +1,12 @@
+{
+  "order": [
+    "clean-pdf-northwind",
+    "clean-pdf-harbor",
+    "pdf-white-on-white-iban",
+    "pdf-tiny-font-amount",
+    "pdf-text-layer-mismatch",
+    "pdf-white-footer-payee",
+    "email-unicode-tags",
+    "email-hidden-span-tags"
+  ]
+}
